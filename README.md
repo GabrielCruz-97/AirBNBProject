@@ -18,8 +18,6 @@ Alternatively, for the average renter, given the property they are looking for, 
 
 The datasets were taken from the Kaggle website: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro.
 
-If you pull the data directly from Kaggle, you may find different results from mine, as the datasets may have been updated.
-
 If you want an alternative solution, we can look at the solution from Kaggle user Allan Bruno in the Notebook: https://www.kaggle.com/allanbruno/helping-regular-people-price-listings-on-airbnb.
 
 - The datasets consist of property prices and their respective characteristics for each month.
